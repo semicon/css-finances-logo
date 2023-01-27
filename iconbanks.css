@@ -37,24 +37,24 @@ h1>i.bank,i.bank.3xl{
     height: 32px;
 }
 h2>i.bank,i.bank.2xl{
-    width: 22px;
-    height: 22px;
+    width: 28px;
+    height: 28px;
 }
 h3>i.bank,i.bank.xl{
+    width: 24px;
+    height: 24px;
+}
+h4>i.bank,i.bank.l{
+    width: 20px;
+    height: 20px;
+}
+h5>i.bank,i.bank.s{
     width: 18px;
     height: 18px;
 }
-h4>i.bank,i.bank.l{
-    width: 16px;
-    height: 16px;
-}
-h5>i.bank,i.bank.s{
-    width: 12px;
-    height: 12px;
-}
 h6>i.bank,i.bank.xs{
-    width: 10px;
-    height: 10px;
+    width: 14px;
+    height: 14px;
 }
 i.credit{ /**@AOM / https://github.com/AomDEV/css-finances **/ }
 i.bank.bank-bbl{
