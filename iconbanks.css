@@ -37,20 +37,20 @@ h1>i.bank,i.bank.xxxl{
     height: 32px;
 }
 h2>i.bank,i.bank.xxl{
-    width: 28px;
-    height: 28px;
+    width: 22px;
+    height: 22px;
 }
 h3>i.bank,i.bank.xl{
-    width: 24px;
-    height: 24px;
-}
-h4>i.bank,i.bank.l{
     width: 20px;
     height: 20px;
 }
-h5>i.bank,i.bank.s{
+h4>i.bank,i.bank.l{
     width: 18px;
     height: 18px;
+}
+h5>i.bank,i.bank.s{
+    width: 16px;
+    height: 16px;
 }
 h6>i.bank,i.bank.xs{
     width: 14px;
