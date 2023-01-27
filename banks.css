@@ -24,15 +24,19 @@ i.bank.round{
 i.bank.shadow{
     box-shadow: 0px 0px 5px grey;
 }
+i.bank.biggest{
+    width: 128px;
+    height: 128px;
+}
 i.bank.huge{
     width: 64px;
     height: 64px;
 }
-h1>i.bank,i.bank.xxxl{
+h1>i.bank,i.bank.3xl{
     width: 32px;
     height: 32px;
 }
-h2>i.bank,i.bank.xxl{
+h2>i.bank,i.bank.2xl{
     width: 22px;
     height: 22px;
 }
