@@ -32,11 +32,11 @@ i.bank, i.bank.huge{
     width: 64px;
     height: 64px;
 }
-h1>i.bank,i.bank.3xl{
+h1>i.bank,i.bank.xxxl{
     width: 32px;
     height: 32px;
 }
-h2>i.bank,i.bank.2xl{
+h2>i.bank,i.bank.xxl{
     width: 28px;
     height: 28px;
 }
